@@ -1,0 +1,3 @@
+If users face login issues, ask them to clear cache and try again.
+App crashes may result from outdated versions; always confirm app is updated.
+Connectivity problems are often resolved by restarting the device or app.
